@@ -1,1 +1,22 @@
-1	Star Wars: Episodio I - La amenaza fantasma
+Trilogía de la Precuela:
+
+    Episodio I: La amenaza fantasma
+    Episodio II: El ataque de los clones
+    Episodio III: La venganza de los Sith
+
+Trilogía Original:
+
+    Episodio IV: Una nueva esperanza
+    Episodio V: El imperio contraataca
+    Episodio VI: El regreso del Jedi
+
+Trilogía de la Secuela:
+
+    Episodio VII: El despertar de la Fuerza
+    Episodio VIII: Los últimos Jedi
+    Episodio IX: El ascenso de Skywalker
+
+Películas Independientes:
+
+    Rogue One: Una historia de Star Wars
+    Solo: Una historia de Star Wars
